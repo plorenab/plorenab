@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hi there
 I'm Lorena, a biomedicine graduate exploring the world of Data Science and Technology
 
-## 🌱 I’m currently learning 
+## I’m currently learning 
 - Python programming fundamentals
-- How to use GitHub, and Kaggle
+- How to use GitHub
 
-### 📊 I’m building:
+### I’m building:
 - A portfolio of small projects with real datasets
-- A habit of consistent learning and curiosity 🧠
+- A habit of consistent learning and curiosity 
 
-### 👯 I’m looking to collaborate on:
+### I’m looking to collaborate on:
 - Beginner-friendly Data Science or Python projects
 - Communities that support women in tech
 <!--
